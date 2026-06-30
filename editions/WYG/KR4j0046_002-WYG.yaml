@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0046/WYG/v1/juan/2
+seq: 2
+front:
+  text: 平齋詞原跋舜俞於潛人其功烈載在史冊如毁鄧艾祠更祠諸葛武侯告其民曰毋事仇讐而忘父母尤為當時稱歎迨卒時御茟批其鯁亮忠慤令抄所著兩漢詔暨詩文行世樓大防又極賞大冶賦一篇予恨未見全集其詩餘四十有竒多送行獻夀之作無判花嗜酒之篇昔人謂王岐公文多富貴氣余于舜俞之詞亦云湖南毛晉識
+  hash: sha256:d322c91bdae825cf5f2d2e19970595bc3bd7fc7aa8c2b805f2dd75b2f98e652b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0046_WYG_002-1a, image: WYG1488/WYG1488-0267c.png}
+body:
+  text: 平齋詞
+  hash: sha256:4034ec1a120cc610821edcc6bb0c89a6567570cd4de38bf22443acecd39f8cd9
+metadata:
+  title: 平齋詞
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:48:26.781771'
+  juan_title: 原跋
+  source:
+    repository: kanripo
+    path: KR4j0046/KR4j0046_002.txt
+hash: sha256:ec3b94aca62cd6327af7332b8ccebdb9790f86bed200fb0a7f2df7f4f0cdda17
