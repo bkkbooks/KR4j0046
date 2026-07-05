@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR4j0046/krp/v1/juan/2
 seq: 2
 front:
-  text: 平齊詞原跋舜俞於潛人其功烈載在史冊如毁鄧艾祠更祠諸葛武侯告其民曰毋事仇讐而忘父母尤為當時稱歎逮卒時御茟批其鯁亮忠慤令抄所著兩漢詔暨詩文行世樓大防又極賞大冶賦一篇豫恨未見全集其詩餘四十有竒多送行獻夀之作無判花嗜酒之篇昔人謂王岐公文多富貴氣余于舜俞之詞亦云湖南毛晉識
-  hash: sha256:88e0921c03bdc0f0f17baf3a49b187e852b13522949d193aca5ada2c358bf478
+  text: 平齋詞原跋舜俞於潛人其功烈載在史冊如毁鄧艾祠更祠諸葛武侯告其民曰毋事仇讐而忘父母尤為當時稱歎迨卒時御茟批其鯁亮忠慤令抄所著兩漢詔暨詩文行世樓大防又極賞大冶賦一篇予恨未見全集其詩餘四十有竒多送行獻夀之作無判花嗜酒之篇昔人謂王岐公文多富貴氣余于舜俞之詞亦云湖南毛晉識
+  hash: sha256:d322c91bdae825cf5f2d2e19970595bc3bd7fc7aa8c2b805f2dd75b2f98e652b
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4j0046_WYG_002-1a, image: WYG1488/WYG1488-0267c.png}
 body:
-  text: 平齊詞
-  hash: sha256:63f642ffd4fcbeae971ca1d703309a26e13f09ccdff50f0d25ef1b56a15d7918
+  text: 平齋詞
+  hash: sha256:4034ec1a120cc610821edcc6bb0c89a6567570cd4de38bf22443acecd39f8cd9
 metadata:
   title: 平齋詞
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4j0046/KR4j0046_002.txt
-hash: sha256:a1836d75d31479dabdedf9342b28f06332393a09694f4c296e67daa00e4122c8
+hash: sha256:c03890377b612dd9c2d8dd847657f56065c2b89eb79260e7ef41b45783123d92
